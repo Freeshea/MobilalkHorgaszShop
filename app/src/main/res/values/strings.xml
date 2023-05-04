@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">HorgaszShop</string>
+    <string name="name">Név</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="password">Jelszó</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Postai cím</string>
+    <string name="product_desc">Termék leírás.</string>
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string name="title_placeholder">Név</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Infó a termékről</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+    <string name="items_add">Termékek hozzáadása</string>
+    <string name="order_again">Rendezés újra</string>
+    <string name="settings">Beállítások</string>
+    <string name="shop_list_logout">Kijelentkezés</string>
+
+    <string-array name="shopping_item_names">
+        <item>TOBI DUPLA TÁVDOBÓ CARPEX 390 CM FEEDER SZETT</item>
+        <item>ASP8X141 ASSO PE8X EVERGREEN 130M 34,8KG FONOTT ZSINÓR</item>
+        <item>DELPHIN HALKÍMÉLŐ SZETT</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Az erőtől duzzadó blank fárasztásnál is kitűnő tulajdonságokat mutat.Nagy keménységű SIC gyűrűkkel és parafa nyéllel készülnek.</item>
+        <item>Ez a fonott zsinór 8 PE mikrószálból van összefonva. A zsinór sötét zöld színű, a finom, vékony, erős mono szálaknak köszönhetően sokkal nagyobb a teherbíró képessége a zsinórnak.</item>
+        <item>A modern pontyhorgászatban a halakra való védelem fontos szerepet tölt be, ezt szerencsére egyre többen kiemelten fontosnak tartják, legyen szó magán tavakról vagy természetes vízterületekről.</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>4</item>
+        <item>5</item>
+        <item>4.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/feeder_szett</item>
+        <item>@drawable/fonott_zsinor</item>
+        <item>@drawable/halkimelo_szett</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>49 500 Ft</item>
+        <item>9 500 Ft</item>
+        <item>11 444 Ft</item>
+    </array>
+</resources>
