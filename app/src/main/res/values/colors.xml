@@ -8,4 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="red">#FFF00000</color>
+    <color name="bisque">#FFE4C4</color>
+    <color name="ivory">#EEEEE0</color>
+    <color name="lightsteelblue">#B0C4DE</color>
+    <color name="powderblue">#B0E0E6</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="green">#17AE97</color>
 </resources>
